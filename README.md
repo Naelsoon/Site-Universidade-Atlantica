@@ -34,6 +34,8 @@ O site conta com as seguintes seções principais:
 
 O site está publicado e pode ser acessado ao vivo através do GitHub Pages.
 
+ https://naelsoon.github.io/Site-Universidade-Atlantica/
+
 
 
 
