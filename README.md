@@ -34,7 +34,7 @@ O site conta com as seguintes seções principais:
 
 O site está publicado e pode ser acessado ao vivo através do GitHub Pages.
 
-➡️ **[Acesse o site aqui!](https://SEU-USUARIO.github.io/Site-Universidade-Atlantica/)**
+
 
 
 ---
